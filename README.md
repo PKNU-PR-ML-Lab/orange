@@ -1,5 +1,6 @@
 # orange
 <h1>오렌지로 쉽게 배우는 머신러닝과 데이터 분석 (오렌지3)</h1>
+<h2>이 책의 특징</h2>
 <table><tr><td width= 50%><img src = "https://github.com/PKNU-PR-ML-Lab/orange/blob/main/book.jpg"></td><td>언젠가 텍스트 기반의 코딩이 구시대의 유물로 인식되는 날도 오게 되지 않을까요? 이 책을 통해 다양한 전공의 학생들이 머신러닝과 데이터 분석에 쉽게 접근할 수 있게 되길 바랍니다.<br>
 이 책의 특별함은 다음과 같습니다. :)<br></td></tr>
 <tr>
@@ -17,4 +18,7 @@
   <td><b>● 실제 데이터 기반의 다양한 데이터 분석 실습</b><br> 음주운전 단속 현황, 세계의 기대수명 변화 등 다양한 실제 데이터를 가져와서 실습하고 분석하며, 데이터 분석 능력을 향상할 수 있도록 구성하였습니다.<br><img src="https://github.com/PKNU-PR-ML-Lab/orange/blob/main/imgs/5%EA%B7%B8%EB%A6%BC9-56.JPG"></td></tr>
 </table>
 
+<h2>강의자료</h2>
+<p>강의자료는 출판사 홈페이지에서 교수회원으로 로그인하신 후 내려받으실 수 있습니다</p>
+<p><a href='https://www.booksr.co.kr/product/%EC%98%A4%EB%A0%8C%EC%A7%80%EB%A1%9C-%EC%89%BD%EA%B2%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EA%B3%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D/'>강의자료 내려받기</a></p>
 
