@@ -27,3 +27,7 @@
 <h2>정오표</h2>
 <p>책 출판 이후 발견된 오탈자 및 오렌지 소프트웨어의 변경사항에 대해 정리해 두었습니다.</p>
 <p><a href="https://github.com/PKNU-PR-ML-Lab/orange/blob/main/%EC%A0%95%EC%98%A4%ED%91%9C.md">정오표 바로가기</a></p>
+
+<h2>외부 데이터</h2>
+<p>실습에서 사용되느 데이터 중, 오렌지에 내장되어 있지 않은 데이터를 깃허브에 올려 두었습니다.</p>
+<p><a href="https://github.com/PKNU-PR-ML-Lab/orange/tree/main/data">외부 데이터 바로가기</a></p>
