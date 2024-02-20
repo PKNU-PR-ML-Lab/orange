@@ -22,3 +22,6 @@
 <p>강의자료는 출판사 홈페이지에서 교수회원으로 로그인하신 후 내려받으실 수 있습니다</p>
 <p><a href='https://www.booksr.co.kr/product/%EC%98%A4%EB%A0%8C%EC%A7%80%EB%A1%9C-%EC%89%BD%EA%B2%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EA%B3%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D/'>강의자료 내려받기</a></p>
 
+<h2>정오표</h2>
+<p>책 출판 이후 발견된 오탈자 및 오렌지 소프트웨어의 변경사항에 대해 정리해 두었습니다.</p>
+<p><a href="https://github.com/PKNU-PR-ML-Lab/orange/blob/main/%EC%A0%95%EC%98%A4%ED%91%9C.md">정오표 바로가기</a></p>
