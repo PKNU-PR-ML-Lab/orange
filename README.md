@@ -29,5 +29,11 @@
 <p><a href="https://github.com/PKNU-PR-ML-Lab/orange/blob/main/%EC%A0%95%EC%98%A4%ED%91%9C.md">정오표 바로가기</a></p>
 
 <h2>외부 데이터</h2>
-<p>실습에서 사용되느 데이터 중, 오렌지에 내장되어 있지 않은 데이터를 깃허브에 올려 두었습니다.</p>
+<p>실습에서 사용되는 데이터 중, 오렌지에 내장되어 있지 않은 데이터를 깃허브에 올려 두었습니다.</p>
 <p><a href="https://github.com/PKNU-PR-ML-Lab/orange/tree/main/data">외부 데이터 바로가기</a></p>
+
+<h2>오렌지 파일</h2>
+<p>책 실습에서 사용된 오렌지 파일을 내려받을 수 있습니다.</p>
+<p>데이터 파일은 오렌지 파일이 저장된 폴더 안에 "외부데이터"라는 폴더를 만들고 그 안에 넣어 주시면 됩니다.<br>즉,<br>C:\orange<br> 폴더에 오렌지 실습 파일이 들어 있다면, 데이터 파일은 <br>C:\orange\외부 데이터\2장\2.2 수강 학생들의 분포를 분석해 보자(피벗 테이블)<br> 과 같은 경로에 두시고 사용하시면 됩니다. 다른 곳에 파일을 저장하여 사용하길 원하시는 경우엔, File 위젯 등에서 해당 파일의 경로를 새로 설정해 주시면 됩니다.</p>
+<p><a href="https://github.com/PKNU-PR-ML-Lab/orange/tree/main/orange%20files">오렌지 파일 바로가기</a></p>
+
