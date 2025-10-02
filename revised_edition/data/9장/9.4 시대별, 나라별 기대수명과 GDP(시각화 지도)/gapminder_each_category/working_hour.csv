@@ -1,0 +1,2107 @@
+Country,Year,Working Hour per Week
+Malta,1969,45.5
+Puerto Rico,1969,38.3
+Malta,1970,44.8
+Puerto Rico,1970,37.8
+Sweden,1970,38.8
+Malta,1971,44.5
+Puerto Rico,1971,37.8
+Sweden,1971,38.2
+Malta,1972,42.5
+Puerto Rico,1972,37.7
+Sweden,1972,37
+Malta,1973,42.3
+Puerto Rico,1973,37.9
+Sweden,1973,36.8
+Malta,1974,41.5
+Puerto Rico,1974,36.8
+Sweden,1974,36.8
+Malta,1975,40
+Puerto Rico,1975,36.6
+Sweden,1975,36.6
+Brazil,1976,44.2
+Canada,1976,35
+Malta,1976,40
+Puerto Rico,1976,35.7
+Sweden,1976,36.3
+United States,1976,38.7
+Brazil,1977,44.1
+Canada,1977,34.9
+Spain,1977,41.6
+Malta,1977,40
+Puerto Rico,1977,36.9
+Sweden,1977,35.9
+United States,1977,38.8
+Canada,1978,35.3
+Spain,1978,41.1
+Malta,1978,40
+Puerto Rico,1978,37.1
+Sweden,1978,35.7
+United States,1978,39
+Brazil,1979,43.6
+Canada,1979,35.3
+Spain,1979,40
+Malta,1979,40
+Puerto Rico,1979,37.2
+Sweden,1979,35.7
+United States,1979,38.9
+Canada,1980,34.7
+Spain,1980,39.7
+Israel,1980,36.5
+Malta,1980,40
+Puerto Rico,1980,36.7
+Sweden,1980,35.6
+United States,1980,38.5
+Brazil,1981,42.3
+Canada,1981,34.1
+Spain,1981,39.1
+Israel,1981,36.7
+Malta,1981,40
+Puerto Rico,1981,35.5
+Sweden,1981,35.4
+United States,1981,38.1
+Canada,1982,34
+Chile,1982,43.1
+Spain,1982,39.1
+Israel,1982,36.2
+Malta,1982,40
+Puerto Rico,1982,36.2
+Sweden,1982,35.6
+United States,1982,38
+Canada,1983,34
+Chile,1983,42.4
+Spain,1983,38.4
+Israel,1983,35.9
+Malta,1983,40
+Puerto Rico,1983,36.3
+Sweden,1983,35.7
+United States,1983,38.3
+Canada,1984,34.1
+Chile,1984,43.4
+Spain,1984,37.6
+Israel,1984,36
+Malta,1984,40
+Puerto Rico,1984,36.1
+Sweden,1984,36
+United States,1984,38.8
+Brazil,1985,44.2
+Canada,1985,34.3
+Chile,1985,43
+Spain,1985,38.2
+"Hong Kong, China",1985,48.9
+Israel,1985,35.8
+Malta,1985,40
+Puerto Rico,1985,35.9
+Sweden,1985,36.3
+United States,1985,39
+Canada,1986,34.3
+Chile,1986,44.4
+"Hong Kong, China",1986,48.9
+Israel,1986,35.7
+Malta,1986,40
+Puerto Rico,1986,36.4
+Sweden,1986,36.5
+Uruguay,1986,42.2
+United States,1986,39.1
+Australia,1987,34.6
+Canada,1987,34.1
+Chile,1987,44.4
+Costa Rica,1987,46.5
+"Hong Kong, China",1987,46.5
+Israel,1987,35.6
+Malta,1987,40
+Philippines,1987,47.8
+Puerto Rico,1987,35.1
+Uruguay,1987,43.1
+United States,1987,39
+Australia,1988,36.1
+Canada,1988,34.7
+Chile,1988,45.3
+Costa Rica,1988,46.3
+"Hong Kong, China",1988,47.5
+Israel,1988,35.6
+Malta,1988,40
+Philippines,1988,46.7
+Puerto Rico,1988,35.9
+Turkey,1988,46.2
+Uruguay,1988,42.6
+United States,1988,39.4
+Australia,1989,35.6
+Canada,1989,35.1
+Chile,1989,44.3
+Costa Rica,1989,45.9
+"Hong Kong, China",1989,46.3
+Israel,1989,36.1
+"Macao, China",1989,48
+Philippines,1989,46.9
+Puerto Rico,1989,36.5
+Turkey,1989,45.8
+Uruguay,1989,43
+United States,1989,39.6
+Argentina,1990,41.8
+Australia,1990,35.8
+Canada,1990,34.6
+Chile,1990,44.9
+Costa Rica,1990,46.5
+"Hong Kong, China",1990,45.6
+Indonesia,1990,36.8
+Israel,1990,35.9
+"Macao, China",1990,47.9
+Philippines,1990,47.6
+Puerto Rico,1990,35.5
+Turkey,1990,47.1
+Uruguay,1990,42.8
+United States,1990,39.4
+Argentina,1991,41.7
+Australia,1991,35.6
+Canada,1991,33.9
+Chile,1991,45.2
+Colombia,1991,48.2
+Costa Rica,1991,45.6
+Ghana,1991,33.9
+"Hong Kong, China",1991,46.2
+Indonesia,1991,37.1
+Israel,1991,35.9
+"Macao, China",1991,47.9
+Philippines,1991,42.6
+Puerto Rico,1991,35.8
+Turkey,1991,46.3
+Uruguay,1991,42.5
+United States,1991,39.2
+Argentina,1992,41.5
+Australia,1992,35.4
+Belgium,1992,39.4
+Canada,1992,33.4
+Chile,1992,44.6
+Colombia,1992,47.8
+Costa Rica,1992,46.8
+Germany,1992,39.3
+Denmark,1992,35.3
+Spain,1992,38.8
+France,1992,40.4
+United Kingdom,1992,36.4
+Greece,1992,43.7
+"Hong Kong, China",1992,44.5
+Indonesia,1992,36.2
+Ireland,1992,41.6
+Israel,1992,36.7
+Italy,1992,39.4
+Luxembourg,1992,39.9
+"Macao, China",1992,48.7
+Netherlands,1992,31.1
+Philippines,1992,42.4
+Puerto Rico,1992,35
+Portugal,1992,41.6
+Turkey,1992,45.4
+Uruguay,1992,43.3
+United States,1992,38.9
+Argentina,1993,41.8
+Australia,1993,35.6
+Belgium,1993,37.9
+Canada,1993,33.8
+Chile,1993,44.5
+Colombia,1993,48.2
+Costa Rica,1993,47
+Germany,1993,39
+Denmark,1993,35
+Spain,1993,39.5
+France,1993,40.2
+United Kingdom,1993,36.6
+Greece,1993,44.3
+"Hong Kong, China",1993,45.8
+Indonesia,1993,36.5
+Ireland,1993,41
+Israel,1993,36.8
+Italy,1993,39.5
+Luxembourg,1993,40.2
+"Macao, China",1993,48.5
+Netherlands,1993,31.1
+Philippines,1993,41.5
+Puerto Rico,1993,35.7
+Portugal,1993,42.1
+Turkey,1993,45.2
+United States,1993,39.4
+Argentina,1994,42
+Australia,1994,35.9
+Belgium,1994,37.5
+Canada,1994,34.2
+Chile,1994,45.3
+Colombia,1994,48.3
+Costa Rica,1994,46.9
+Germany,1994,39
+Denmark,1994,36.1
+Spain,1994,39.1
+France,1994,40.2
+United Kingdom,1994,36.8
+Greece,1994,43.2
+"Hong Kong, China",1994,45.8
+Indonesia,1994,36.5
+Ireland,1994,40.9
+Israel,1994,37.4
+Italy,1994,39.3
+Luxembourg,1994,39.8
+"Macao, China",1994,48.2
+Netherlands,1994,31
+Philippines,1994,42
+Portugal,1994,41.9
+Romania,1994,38
+Turkey,1994,46.1
+United States,1994,39.2
+Argentina,1995,43.5
+Australia,1995,35.9
+Austria,1995,40.6
+Belgium,1995,38.1
+Canada,1995,34
+Chile,1995,44.8
+Colombia,1995,47.9
+Costa Rica,1995,46.5
+Germany,1995,38.9
+Denmark,1995,34.8
+Spain,1995,38.5
+Finland,1995,37.2
+France,1995,39.9
+United Kingdom,1995,37.1
+Greece,1995,42.9
+"Hong Kong, China",1995,45.1
+Ireland,1995,40.2
+Iceland,1995,42.3
+Israel,1995,37.7
+Italy,1995,39.5
+South Korea,1995,52.5
+Luxembourg,1995,39.8
+"Macao, China",1995,48
+Netherlands,1995,30.9
+Norway,1995,35.2
+Philippines,1995,42
+Portugal,1995,42.3
+Romania,1995,36.5
+Sweden,1995,34.2
+Turkey,1995,48
+United States,1995,39.3
+Argentina,1996,42.7
+Australia,1996,35.7
+Austria,1996,40.2
+Belgium,1996,38
+Botswana,1996,47.3
+Canada,1996,34.2
+Switzerland,1996,37.1
+Chile,1996,44.6
+Colombia,1996,48
+Costa Rica,1996,46.9
+Germany,1996,38.9
+Denmark,1996,34.6
+Dominican Republic,1996,44
+Spain,1996,38.2
+Finland,1996,37.9
+France,1996,39.9
+United Kingdom,1996,36.9
+Greece,1996,42.4
+"Hong Kong, China",1996,46.1
+Hungary,1996,41.5
+Ireland,1996,40.7
+Iceland,1996,43.3
+Israel,1996,37.8
+Italy,1996,38.9
+South Korea,1996,52.3
+Luxembourg,1996,39.4
+Latvia,1996,40.1
+"Macao, China",1996,47.9
+Netherlands,1996,32.7
+Norway,1996,35.5
+Philippines,1996,41.6
+Portugal,1996,41.4
+Romania,1996,38.3
+Slovenia,1996,42.7
+Sweden,1996,34.6
+Turkey,1996,46.6
+United States,1996,39.3
+Vietnam,1996,51.8
+Argentina,1997,42.8
+Australia,1997,35.7
+Austria,1997,40.7
+Belgium,1997,38.2
+Canada,1997,34.2
+Switzerland,1997,37.2
+Chile,1997,44
+Colombia,1997,47.5
+Costa Rica,1997,46.9
+Czech Republic,1997,43.6
+Germany,1997,38.7
+Denmark,1997,35.1
+Dominican Republic,1997,44
+Spain,1997,38.5
+Estonia,1997,42.3
+Finland,1997,39.8
+France,1997,39.5
+United Kingdom,1997,36.7
+Greece,1997,42.4
+"Hong Kong, China",1997,45.2
+Hungary,1997,42.2
+Indonesia,1997,38.1
+Ireland,1997,40
+Iceland,1997,43.2
+Israel,1997,37.8
+Italy,1997,39.4
+South Korea,1997,51.4
+Luxembourg,1997,39.3
+Latvia,1997,41.2
+"Macao, China",1997,48
+Netherlands,1997,32.7
+Norway,1997,36.3
+New Zealand,1997,34.4
+Panama,1997,38.3
+Philippines,1997,41.6
+Poland,1997,43.1
+Portugal,1997,40.5
+Romania,1997,41
+Slovenia,1997,40.9
+Sweden,1997,36.7
+Turkey,1997,44.3
+United States,1997,39.5
+Vietnam,1997,45.3
+Albania,1998,39
+Argentina,1998,42.9
+Australia,1998,35.5
+Austria,1998,40.5
+Belgium,1998,38.8
+Canada,1998,33.9
+Switzerland,1998,37.2
+Chile,1998,44.1
+Colombia,1998,47
+Costa Rica,1998,46.6
+Czech Republic,1998,43.8
+Germany,1998,38.5
+Denmark,1998,34.4
+Spain,1998,38.7
+Estonia,1998,42.2
+Finland,1998,38.2
+France,1998,39.6
+United Kingdom,1998,36.6
+Greece,1998,42.5
+"Hong Kong, China",1998,45.2
+Hungary,1998,41.8
+Indonesia,1998,36.8
+Ireland,1998,39.7
+Iceland,1998,42.8
+Israel,1998,39.8
+Italy,1998,39.4
+South Korea,1998,50.1
+Lithuania,1998,42.5
+Luxembourg,1998,39.2
+Latvia,1998,43.2
+"Macao, China",1998,48.4
+Netherlands,1998,32.4
+Norway,1998,36.3
+New Zealand,1998,34.5
+Philippines,1998,41.6
+Poland,1998,42.8
+Portugal,1998,40.1
+Paraguay,1998,32.1
+Romania,1998,40.2
+Slovak Republic,1998,42.1
+Slovenia,1998,41.1
+Sweden,1998,34.9
+Turkey,1998,47.2
+United States,1998,39.3
+Vietnam,1998,46.2
+Argentina,1999,42.8
+Australia,1999,35.6
+Austria,1999,40.2
+Belgium,1999,37.1
+Bolivia,1999,44.5
+Canada,1999,34.2
+Switzerland,1999,37.4
+Chile,1999,43.5
+Colombia,1999,46.7
+Costa Rica,1999,46.8
+Czech Republic,1999,44.1
+Germany,1999,38.4
+Denmark,1999,36.1
+Spain,1999,39.8
+Estonia,1999,41.9
+Finland,1999,38
+France,1999,39.2
+United Kingdom,1999,36.5
+Greece,1999,42.9
+"Hong Kong, China",1999,46
+Hungary,1999,42.2
+Indonesia,1999,37.4
+Ireland,1999,39.4
+Iceland,1999,43.5
+Israel,1999,40
+Italy,1999,39.3
+Kenya,1999,39.5
+South Korea,1999,50.4
+Lithuania,1999,41.7
+Luxembourg,1999,39.2
+Latvia,1999,43.4
+"Macao, China",1999,48.3
+Netherlands,1999,32.2
+Norway,1999,36.2
+New Zealand,1999,34.8
+Philippines,1999,42.2
+Poland,1999,40.2
+Portugal,1999,40.3
+Paraguay,1999,42.2
+Romania,1999,40.2
+Slovak Republic,1999,42.2
+Slovenia,1999,41.8
+Sweden,1999,36.8
+Turkey,1999,45.2
+United States,1999,39.6
+Vietnam,1999,46.2
+Argentina,2000,42.2
+Australia,2000,35.5
+Austria,2000,40
+Belgium,2000,37
+Bulgaria,2000,40.6
+Bolivia,2000,46.1
+Canada,2000,34.4
+Switzerland,2000,37.7
+Chile,2000,44.1
+Colombia,2000,45.3
+Costa Rica,2000,46.6
+Cyprus,2000,39.9
+Czech Republic,2000,43.4
+Germany,2000,38.3
+Denmark,2000,34.8
+Spain,2000,38.7
+Estonia,2000,41.1
+Finland,2000,37.3
+France,2000,38.8
+United Kingdom,2000,36.3
+Greece,2000,42.6
+"Hong Kong, China",2000,46.6
+Hungary,2000,41.2
+Indonesia,2000,38.4
+Ireland,2000,39.1
+Iceland,2000,44.4
+Israel,2000,40.5
+Italy,2000,39.2
+Cambodia,2000,48.8
+South Korea,2000,50.2
+Lithuania,2000,40.5
+Luxembourg,2000,39.4
+Latvia,2000,43.2
+"Macao, China",2000,48.1
+Malta,2000,42.3
+Netherlands,2000,32
+Norway,2000,34.7
+New Zealand,2000,34.4
+Philippines,2000,42.1
+Poland,2000,41.8
+Portugal,2000,39.4
+Romania,2000,40.4
+Slovak Republic,2000,41.7
+Slovenia,2000,41.4
+Sweden,2000,37.1
+Turkey,2000,46.5
+South Africa,2000,46.2
+Argentina,2001,41.4
+Armenia,2001,43
+Australia,2001,35.1
+Austria,2001,39.9
+Belgium,2001,36.8
+Bulgaria,2001,41.2
+Bolivia,2001,41.2
+Canada,2001,33.7
+Switzerland,2001,37.8
+Chile,2001,43.7
+Costa Rica,2001,47
+Cyprus,2001,39.1
+Czech Republic,2001,41.6
+Germany,2001,38
+Denmark,2001,35.2
+Spain,2001,38.6
+Estonia,2001,40.7
+Finland,2001,36.8
+France,2001,38.4
+United Kingdom,2001,36.5
+Greece,2001,42.7
+"Hong Kong, China",2001,46.5
+Hungary,2001,41.5
+Indonesia,2001,38.9
+Ireland,2001,38.6
+Iceland,2001,43.8
+Israel,2001,39.8
+Italy,2001,39.4
+Cambodia,2001,45.3
+South Korea,2001,50
+Lithuania,2001,40
+Luxembourg,2001,38.8
+Latvia,2001,43.7
+"Macao, China",2001,48.1
+Malta,2001,35.3
+Mauritius,2001,39.7
+Malaysia,2001,47.7
+Nicaragua,2001,43.3
+Netherlands,2001,31.9
+Norway,2001,34.6
+New Zealand,2001,34.4
+Panama,2001,43.5
+Poland,2001,41.2
+Portugal,2001,39.4
+Paraguay,2001,40.2
+Romania,2001,40.3
+Slovak Republic,2001,41.1
+Slovenia,2001,40.5
+Sweden,2001,35
+Turkey,2001,48.6
+Tanzania,2001,33.6
+South Africa,2001,46.5
+Argentina,2002,39.2
+Armenia,2002,43
+Australia,2002,34.9
+Austria,2002,39.4
+Belgium,2002,36.9
+Bulgaria,2002,41.2
+Bolivia,2002,43.9
+Canada,2002,33.5
+Switzerland,2002,37.2
+Chile,2002,43.8
+Colombia,2002,42.6
+Costa Rica,2002,47
+Cyprus,2002,38.9
+Czech Republic,2002,41.6
+Germany,2002,37.6
+Denmark,2002,35.7
+Spain,2002,38.7
+Estonia,2002,40.8
+Finland,2002,37.3
+France,2002,37.9
+United Kingdom,2002,36.2
+Greece,2002,42.5
+"Hong Kong, China",2002,46.9
+Croatia,2002,41
+Hungary,2002,41.5
+Indonesia,2002,38.5
+Ireland,2002,38.1
+Iceland,2002,43
+Israel,2002,40
+Italy,2002,35.9
+South Korea,2002,49.5
+Lithuania,2002,39.6
+Luxembourg,2002,38.7
+Latvia,2002,43.6
+"Macao, China",2002,47.8
+Mexico,2002,41.3
+Malta,2002,40.3
+Mauritius,2002,39.7
+Malaysia,2002,48.3
+Netherlands,2002,31.1
+Norway,2002,35.6
+New Zealand,2002,34.4
+Panama,2002,43.4
+Peru,2002,40.5
+Philippines,2002,40.8
+Poland,2002,41.5
+Portugal,2002,39.1
+Paraguay,2002,41.4
+Romania,2002,41.3
+Slovak Republic,2002,40.9
+Slovenia,2002,40.9
+Sweden,2002,35.4
+Turkey,2002,48.7
+South Africa,2002,46.6
+Argentina,2003,40
+Armenia,2003,44
+Australia,2003,34.6
+Austria,2003,39.3
+Belgium,2003,36.7
+Bulgaria,2003,40
+Canada,2003,32.9
+Switzerland,2003,37.4
+Chile,2003,43.5
+Colombia,2003,43.5
+Costa Rica,2003,47
+Cyprus,2003,38.8
+Czech Republic,2003,41.7
+Germany,2003,37.1
+Denmark,2003,34.8
+Spain,2003,37.9
+Estonia,2003,40.2
+Finland,2003,36.5
+France,2003,37
+United Kingdom,2003,35.9
+Greece,2003,42.6
+"Hong Kong, China",2003,46.6
+Croatia,2003,40.9
+Hungary,2003,40.9
+Indonesia,2003,38.5
+Ireland,2003,37.5
+Iceland,2003,42
+Israel,2003,39.6
+Italy,2003,39.1
+South Korea,2003,48.6
+Lithuania,2003,38.8
+Luxembourg,2003,38
+Latvia,2003,43.1
+"Macao, China",2003,47.3
+Mexico,2003,40.9
+Malta,2003,38.9
+Mauritius,2003,38.1
+Malaysia,2003,48.1
+Netherlands,2003,31.3
+Norway,2003,33.5
+New Zealand,2003,34.4
+Panama,2003,43.5
+Peru,2003,39.6
+Poland,2003,41.4
+Portugal,2003,38.3
+Paraguay,2003,42.4
+Romania,2003,41.4
+Slovak Republic,2003,40.6
+Slovenia,2003,40.5
+Sweden,2003,34.5
+Turkey,2003,48.7
+United States,2003,36.8
+South Africa,2003,45.5
+Argentina,2004,38
+Armenia,2004,44.6
+Australia,2004,34.7
+Austria,2004,39.9
+Belgium,2004,36.6
+Bulgaria,2004,40.7
+Canada,2004,33.2
+Switzerland,2004,37.7
+Chile,2004,42.9
+Colombia,2004,43.1
+Costa Rica,2004,45.6
+Cyprus,2004,39.3
+Czech Republic,2004,42.3
+Germany,2004,37.1
+Denmark,2004,34.4
+Dominican Republic,2004,40.1
+Ecuador,2004,37.5
+Spain,2004,38.6
+Estonia,2004,40.4
+Finland,2004,37
+France,2004,37
+United Kingdom,2004,35.8
+Greece,2004,42.5
+"Hong Kong, China",2004,47.1
+Croatia,2004,40.7
+Hungary,2004,41
+Indonesia,2004,39.5
+Ireland,2004,37.4
+Iceland,2004,42.2
+Israel,2004,39.2
+Italy,2004,38.6
+South Korea,2004,48.1
+Lithuania,2004,38.6
+Luxembourg,2004,38.4
+Latvia,2004,41.8
+"Macao, China",2004,48
+Mexico,2004,40.8
+Malta,2004,40.9
+Mauritius,2004,39.7
+Malaysia,2004,47.4
+Namibia,2004,63
+Netherlands,2004,31
+Norway,2004,33.6
+New Zealand,2004,35.1
+Panama,2004,43.1
+Peru,2004,39.4
+Poland,2004,41.6
+Portugal,2004,39.4
+Paraguay,2004,42.2
+Romania,2004,41.2
+Slovak Republic,2004,40.8
+Slovenia,2004,40.1
+Sweden,2004,35
+Turkey,2004,49.7
+United States,2004,36.8
+South Africa,2004,45.8
+Zimbabwe,2004,48.2
+Argentina,2005,38.4
+Armenia,2005,48.7
+Australia,2005,34.7
+Austria,2005,39.1
+Belgium,2005,37
+Bulgaria,2005,40.7
+Canada,2005,33.5
+Switzerland,2005,37.8
+Chile,2005,42.1
+China,2005,47.8
+"Congo, Dem. Rep.",2005,34
+Colombia,2005,43.7
+Costa Rica,2005,45.1
+Cyprus,2005,39.7
+Czech Republic,2005,42
+Germany,2005,37.1
+Denmark,2005,35.8
+Dominican Republic,2005,40.2
+Ecuador,2005,43.9
+Spain,2005,39
+Estonia,2005,40.2
+Ethiopia,2005,27.4
+Finland,2005,37.4
+France,2005,37
+United Kingdom,2005,36.1
+Greece,2005,42.3
+"Hong Kong, China",2005,46.9
+Honduras,2005,38.2
+Croatia,2005,40.1
+Hungary,2005,40.5
+Indonesia,2005,39.2
+Ireland,2005,37.7
+Iran,2005,46.8
+Iceland,2005,42.3
+Israel,2005,39.1
+Italy,2005,38.2
+South Korea,2005,47.5
+Lithuania,2005,38.9
+Luxembourg,2005,38.1
+Latvia,2005,42.2
+"Macao, China",2005,47.5
+Mexico,2005,43.4
+Malta,2005,39.2
+Mauritius,2005,39.2
+Malaysia,2005,48.2
+Netherlands,2005,32.3
+Norway,2005,35
+New Zealand,2005,34.8
+Panama,2005,43.4
+Peru,2005,39.3
+Poland,2005,41.2
+Portugal,2005,39
+Paraguay,2005,43.5
+Romania,2005,40.5
+Slovak Republic,2005,41.1
+Slovenia,2005,40.7
+Sweden,2005,36.2
+Turkey,2005,51.6
+United States,2005,36.9
+Venezuela,2005,40
+South Africa,2005,46.9
+Argentina,2006,38.5
+Armenia,2006,45.4
+Australia,2006,34.6
+Austria,2006,38.9
+Belgium,2006,37.1
+Bangladesh,2006,44.8
+Bulgaria,2006,41.1
+Bosnia and Herzegovina,2006,41.1
+Botswana,2006,47.8
+Canada,2006,33.2
+Switzerland,2006,37.8
+Chile,2006,42.1
+China,2006,47.3
+Colombia,2006,43.3
+Costa Rica,2006,45.1
+Cyprus,2006,39.7
+Czech Republic,2006,41.7
+Germany,2006,36.3
+Denmark,2006,35.6
+Dominican Republic,2006,42.2
+Ecuador,2006,43.4
+Spain,2006,38.9
+Estonia,2006,40.3
+Finland,2006,37.4
+France,2006,37.1
+United Kingdom,2006,36.1
+Ghana,2006,38.6
+Greece,2006,41.9
+"Hong Kong, China",2006,46.3
+Honduras,2006,39.5
+Croatia,2006,40.2
+Hungary,2006,40.4
+Indonesia,2006,39.5
+Ireland,2006,37.5
+Iran,2006,47.6
+Iceland,2006,42.5
+Israel,2006,39.1
+Italy,2006,38.1
+South Korea,2006,47.4
+Lithuania,2006,38.9
+Luxembourg,2006,37.8
+Latvia,2006,42.3
+"Macao, China",2006,47.1
+Mexico,2006,43.2
+North Macedonia,2006,44
+Malta,2006,39.4
+Mauritius,2006,39.3
+Malaysia,2006,48
+Netherlands,2006,32.6
+Norway,2006,34.9
+New Zealand,2006,34.4
+Panama,2006,43.3
+Peru,2006,39.6
+Philippines,2006,40.4
+Poland,2006,41.2
+Portugal,2006,38.9
+Paraguay,2006,44.3
+Romania,2006,40.2
+Slovak Republic,2006,40.3
+Slovenia,2006,40
+Sweden,2006,36.1
+Turkey,2006,51.9
+Tanzania,2006,33.1
+United States,2006,36.9
+Venezuela,2006,39.2
+Vanuatu,2006,25.1
+South Africa,2006,45.5
+Albania,2007,44.9
+Armenia,2007,38
+Australia,2007,34.6
+Austria,2007,38.4
+Belgium,2007,37.4
+Bulgaria,2007,41.2
+Bosnia and Herzegovina,2007,41.4
+Canada,2007,33.3
+Switzerland,2007,37.4
+Chile,2007,41.7
+China,2007,45.5
+Colombia,2007,45.8
+Costa Rica,2007,46.5
+Cyprus,2007,39.5
+Czech Republic,2007,41.5
+Germany,2007,36.3
+Denmark,2007,35.6
+Dominican Republic,2007,39.5
+Spain,2007,38.8
+Estonia,2007,40
+Finland,2007,37.2
+France,2007,37.1
+United Kingdom,2007,36.1
+Greece,2007,41.6
+"Hong Kong, China",2007,46.6
+Honduras,2007,40.6
+Croatia,2007,40.5
+Hungary,2007,40.1
+Indonesia,2007,39.9
+Ireland,2007,36.9
+Iran,2007,47.8
+Iceland,2007,42
+Israel,2007,39.3
+Italy,2007,38.1
+Cambodia,2007,39.8
+South Korea,2007,46.6
+Lithuania,2007,39.4
+Luxembourg,2007,37.7
+Latvia,2007,41.5
+"Macao, China",2007,46.9
+Mexico,2007,41.8
+North Macedonia,2007,43.2
+Malta,2007,39.6
+Mongolia,2007,47
+Mauritius,2007,38.9
+Malaysia,2007,47.3
+Netherlands,2007,32.5
+Norway,2007,34.8
+New Zealand,2007,34
+Panama,2007,43.1
+Peru,2007,39.3
+Philippines,2007,40.9
+Poland,2007,41.2
+Portugal,2007,38.5
+Paraguay,2007,43.3
+Romania,2007,40.3
+Slovak Republic,2007,40.4
+Slovenia,2007,40.2
+Sweden,2007,36.1
+Turkey,2007,49.6
+United States,2007,36.9
+Venezuela,2007,39.6
+Vietnam,2007,44
+South Africa,2007,45.5
+Albania,2008,42.2
+Argentina,2008,38.9
+Armenia,2008,42.1
+Australia,2008,34.5
+Austria,2008,38.1
+Belgium,2008,37.1
+Bulgaria,2008,41.1
+Bosnia and Herzegovina,2008,41.9
+Canada,2008,33
+Switzerland,2008,37.6
+Chile,2008,40.6
+China,2008,44.6
+Colombia,2008,45.5
+Costa Rica,2008,46.9
+Cayman Islands,2008,41.8
+Cyprus,2008,39.4
+Czech Republic,2008,41.5
+Germany,2008,36.2
+Denmark,2008,35.6
+Egypt,2008,45.5
+Spain,2008,38.6
+Estonia,2008,39.5
+Finland,2008,37.1
+France,2008,37.1
+United Kingdom,2008,35.9
+Greece,2008,41.6
+"Hong Kong, China",2008,45.6
+Honduras,2008,37.5
+Croatia,2008,40.2
+Hungary,2008,40.1
+Indonesia,2008,39.4
+Ireland,2008,36.3
+Iran,2008,47.5
+Iceland,2008,41.6
+Israel,2008,39.1
+Italy,2008,37.8
+Cambodia,2008,39.3
+South Korea,2008,45.6
+Lithuania,2008,39.9
+Luxembourg,2008,37.4
+Latvia,2008,40.4
+"Macao, China",2008,46.9
+Mexico,2008,41.7
+North Macedonia,2008,41.2
+Malta,2008,39.6
+Mongolia,2008,47
+Mauritius,2008,38.9
+Malaysia,2008,46.9
+Netherlands,2008,32.4
+Norway,2008,34.9
+Nepal,2008,38.5
+New Zealand,2008,33.9
+Panama,2008,40.8
+Peru,2008,39.3
+Philippines,2008,41.2
+Poland,2008,41
+Portugal,2008,38.5
+Paraguay,2008,43.4
+Romania,2008,40
+Serbia,2008,42.4
+Slovak Republic,2008,40
+Slovenia,2008,40.1
+Sweden,2008,36.1
+Turkey,2008,49.7
+United States,2008,36.7
+Venezuela,2008,40.3
+South Africa,2008,43.9
+Albania,2009,42.1
+United Arab Emirates,2009,52.6
+Argentina,2009,38
+Armenia,2009,35
+Australia,2009,33.9
+Austria,2009,37.1
+Azerbaijan,2009,35.1
+Belgium,2009,37
+Bulgaria,2009,40.4
+Bosnia and Herzegovina,2009,41.3
+Bermuda,2009,40.9
+Bolivia,2009,43.2
+Canada,2009,32.2
+Switzerland,2009,37
+Chile,2009,43.1
+China,2009,44.7
+"Congo, Rep.",2009,48.6
+Colombia,2009,44.2
+Cuba,2009,41
+Cayman Islands,2009,42.5
+Cyprus,2009,38.9
+Czech Republic,2009,40.7
+Germany,2009,35.6
+Denmark,2009,35.2
+Dominican Republic,2009,41.2
+Egypt,2009,46.3
+Spain,2009,38.1
+Estonia,2009,38
+Finland,2009,36.5
+France,2009,36.8
+United Kingdom,2009,35.7
+Greece,2009,41.3
+"Hong Kong, China",2009,45
+Honduras,2009,36.3
+Croatia,2009,39.9
+Hungary,2009,39.8
+Indonesia,2009,39.3
+Ireland,2009,35.4
+Iran,2009,45.6
+Iceland,2009,39.6
+Israel,2009,39
+Italy,2009,37.4
+Japan,2009,40.2
+Kazakhstan,2009,37
+Cambodia,2009,38.2
+South Korea,2009,45.4
+Sri Lanka,2009,39.8
+Lithuania,2009,39.3
+Luxembourg,2009,38.1
+Latvia,2009,39.6
+"Macao, China",2009,46
+Moldova,2009,39
+Mexico,2009,41.2
+North Macedonia,2009,40.3
+Malta,2009,39.3
+Mongolia,2009,48
+Mauritius,2009,38.6
+Malaysia,2009,47.1
+Nicaragua,2009,48
+Netherlands,2009,32.2
+Norway,2009,34.5
+New Zealand,2009,33
+Pakistan,2009,46.5
+Panama,2009,39.1
+Peru,2009,38.4
+Philippines,2009,40.5
+Poland,2009,40.6
+Portugal,2009,38.6
+Paraguay,2009,41.8
+Qatar,2009,50
+Romania,2009,39.8
+Russia,2009,38
+Saudi Arabia,2009,49.2
+Serbia,2009,42.4
+Slovak Republic,2009,39.4
+Slovenia,2009,39.4
+Sweden,2009,35.6
+Tajikistan,2009,41.3
+Turkey,2009,48.8
+Uganda,2009,24
+Ukraine,2009,38
+United States,2009,35.7
+Venezuela,2009,39.2
+Vietnam,2009,42.6
+South Africa,2009,43.2
+Aruba,2010,39.4
+Albania,2010,40.8
+Argentina,2010,38.3
+Armenia,2010,35.9
+Australia,2010,34.1
+Austria,2010,36.9
+Azerbaijan,2010,34.6
+Belgium,2010,37.4
+Benin,2010,40.4
+Bangladesh,2010,46
+Bulgaria,2010,40.5
+Bosnia and Herzegovina,2010,40.9
+Bermuda,2010,41.8
+Botswana,2010,43
+Canada,2010,32.6
+Switzerland,2010,37.3
+Chile,2010,39.8
+China,2010,47
+Colombia,2010,44.1
+Costa Rica,2010,42.9
+Cuba,2010,41
+Cyprus,2010,39.1
+Czech Republic,2010,40.7
+Germany,2010,35.8
+Denmark,2010,35.6
+Dominican Republic,2010,40.8
+Egypt,2010,46.4
+Spain,2010,38
+Estonia,2010,38.9
+Finland,2010,36.8
+France,2010,37.1
+United Kingdom,2010,35.6
+Greece,2010,41.3
+"Hong Kong, China",2010,46
+Honduras,2010,35.8
+Croatia,2010,39.7
+Hungary,2010,39.8
+Indonesia,2010,39.7
+Ireland,2010,35.3
+Iran,2010,45.4
+Iceland,2010,39.5
+Israel,2010,39
+Italy,2010,37.5
+Japan,2010,40.3
+Kazakhstan,2010,37
+Cambodia,2010,38.7
+South Korea,2010,44.7
+Lao,2010,43
+Liberia,2010,44.1
+Sri Lanka,2010,41.2
+Lithuania,2010,39.2
+Luxembourg,2010,38.1
+Latvia,2010,39.1
+"Macao, China",2010,47
+Moldova,2010,37.5
+Madagascar,2010,35.2
+Mexico,2010,41.4
+North Macedonia,2010,41.5
+Malta,2010,38.7
+Mongolia,2010,47
+Mauritius,2010,38.1
+Malaysia,2010,47.1
+Namibia,2010,40.7
+Nicaragua,2010,41.4
+Netherlands,2010,32
+Norway,2010,34.4
+New Zealand,2010,33
+Pakistan,2010,47
+Panama,2010,39.1
+Peru,2010,38
+Philippines,2010,41.1
+Poland,2010,40.5
+Portugal,2010,38.6
+Paraguay,2010,43.1
+Romania,2010,39.6
+Russia,2010,38
+El Salvador,2010,41.9
+Serbia,2010,42.1
+Slovak Republic,2010,39.6
+Slovenia,2010,39.1
+Sweden,2010,36.3
+Thailand,2010,44.7
+Timor-Leste,2010,45.8
+Turkey,2010,47.7
+Ukraine,2010,38
+United States,2010,36.1
+Venezuela,2010,38.8
+Vietnam,2010,45
+Vanuatu,2010,27.7
+Yemen,2010,42
+South Africa,2010,43
+Albania,2011,35.6
+Argentina,2011,38.4
+Armenia,2011,35.4
+Australia,2011,34
+Austria,2011,37
+Belgium,2011,37.2
+Benin,2011,41
+Bulgaria,2011,40.3
+Bosnia and Herzegovina,2011,40.8
+Canada,2011,32.7
+Switzerland,2011,37.1
+Chile,2011,39.4
+China,2011,46.2
+Colombia,2011,43.7
+Costa Rica,2011,44
+Cayman Islands,2011,41
+Cyprus,2011,38.9
+Czech Republic,2011,40.5
+Germany,2011,35.9
+Denmark,2011,35.7
+Dominican Republic,2011,40.6
+Ecuador,2011,41
+Egypt,2011,45.1
+Spain,2011,37.8
+Estonia,2011,39
+Finland,2011,36.7
+France,2011,37.2
+United Kingdom,2011,35.6
+Greece,2011,41.3
+Guatemala,2011,29.9
+Honduras,2011,38.5
+Croatia,2011,39.5
+Hungary,2011,39.4
+Indonesia,2011,39.2
+Ireland,2011,35.2
+Iran,2011,45.6
+Iceland,2011,40
+Israel,2011,39
+Italy,2011,37.2
+Jersey,2011,36.8
+Kazakhstan,2011,37
+Cambodia,2011,38.8
+South Korea,2011,43.4
+Sri Lanka,2011,40.6
+Lithuania,2011,39
+Luxembourg,2011,38
+Latvia,2011,39.3
+"Macao, China",2011,46
+Morocco,2011,44.8
+Moldova,2011,38.6
+Mexico,2011,41.5
+North Macedonia,2011,41.5
+Malta,2011,38.3
+Montenegro,2011,40.6
+Mongolia,2011,48
+Mauritius,2011,39.4
+Malaysia,2011,46.7
+Nigeria,2011,42.5
+Netherlands,2011,32.3
+Norway,2011,34.6
+New Zealand,2011,33
+Pakistan,2011,46.3
+Panama,2011,40.9
+Peru,2011,38.1
+Philippines,2011,40.6
+Poland,2011,40.3
+Portugal,2011,38.5
+Paraguay,2011,44.7
+Qatar,2011,51
+Romania,2011,39.5
+Russia,2011,38.1
+Saudi Arabia,2011,49.5
+Singapore,2011,45.9
+El Salvador,2011,42.1
+Serbia,2011,42.1
+Slovak Republic,2011,39.6
+Slovenia,2011,38.9
+Sweden,2011,36.2
+Seychelles,2011,41.8
+Thailand,2011,46
+Turkey,2011,47.4
+Ukraine,2011,38
+United States,2011,36.2
+Venezuela,2011,38.5
+Vietnam,2011,42.7
+South Africa,2011,43.3
+Albania,2012,39.5
+Argentina,2012,37.7
+Armenia,2012,36.4
+Australia,2012,34
+Austria,2012,36.7
+Belgium,2012,37
+Bulgaria,2012,40.2
+Bosnia and Herzegovina,2012,41.2
+Brazil,2012,38.5
+Canada,2012,32.9
+Switzerland,2012,36.9
+Chile,2012,38.9
+China,2012,46.3
+Cote d'Ivoire,2012,46.2
+"Congo, Dem. Rep.",2012,35.2
+Colombia,2012,43.1
+Costa Rica,2012,43
+Cayman Islands,2012,41
+Cyprus,2012,38.9
+Czech Republic,2012,40.2
+Germany,2012,35.8
+Denmark,2012,35.5
+Dominican Republic,2012,40.9
+Ecuador,2012,41
+Egypt,2012,45.2
+Spain,2012,37.5
+Estonia,2012,38.7
+Finland,2012,36.5
+Falkland Is (Malvinas),2012,44.6
+France,2012,36.9
+United Kingdom,2012,35.7
+Gambia,2012,46
+Greece,2012,41.1
+Guatemala,2012,29.4
+"Hong Kong, China",2012,45
+Honduras,2012,38.6
+Croatia,2012,39.4
+Haiti,2012,40.5
+Hungary,2012,38.8
+Indonesia,2012,38.6
+Ireland,2012,35.3
+Iran,2012,45.7
+Iceland,2012,39.8
+Israel,2012,31.6
+Italy,2012,36.5
+Japan,2012,40.1
+Kazakhstan,2012,38
+Kyrgyz Republic,2012,34.5
+Cambodia,2012,45
+South Korea,2012,44.2
+Kosovo,2012,39.5
+Lithuania,2012,38.8
+Luxembourg,2012,38.4
+Latvia,2012,39.2
+"Macao, China",2012,46
+Morocco,2012,44.9
+Moldova,2012,37.8
+Madagascar,2012,32.2
+Mexico,2012,41.5
+North Macedonia,2012,41.7
+Malta,2012,38.3
+Montenegro,2012,42.9
+Mongolia,2012,47
+Mauritius,2012,37.3
+Malaysia,2012,46.4
+Namibia,2012,37.4
+Nicaragua,2012,35.6
+Netherlands,2012,32
+Norway,2012,34.6
+New Zealand,2012,33
+Panama,2012,39.4
+Peru,2012,38.2
+Philippines,2012,40.6
+Poland,2012,40.3
+Portugal,2012,38.3
+Paraguay,2012,41.4
+Palestine,2012,41.7
+Qatar,2012,50
+Reunion,2012,33
+Romania,2012,39.3
+Russia,2012,38.1
+Saudi Arabia,2012,49.9
+Singapore,2012,45.6
+El Salvador,2012,41.3
+Serbia,2012,42.5
+Slovak Republic,2012,39.6
+Slovenia,2012,39
+Sweden,2012,36
+Thailand,2012,46
+Turkey,2012,48.1
+Uganda,2012,33
+Ukraine,2012,38
+United States,2012,36.4
+Venezuela,2012,38.2
+Vietnam,2012,41.8
+Samoa,2012,39.2
+South Africa,2012,42.8
+Albania,2013,40.9
+Argentina,2013,37.5
+Armenia,2013,36.5
+Australia,2013,33.9
+Austria,2013,36.4
+Azerbaijan,2013,33.7
+Belgium,2013,37.3
+Bangladesh,2013,45.4
+Bulgaria,2013,40
+Bosnia and Herzegovina,2013,41.2
+Belarus,2013,36.7
+Brazil,2013,38.5
+Canada,2013,32.7
+Switzerland,2013,36.8
+Chile,2013,38.8
+China,2013,46.6
+Cote d'Ivoire,2013,40.5
+Colombia,2013,42.8
+Costa Rica,2013,41.2
+Cayman Islands,2013,41.7
+Cyprus,2013,38.5
+Czech Republic,2013,39.5
+Germany,2013,35.5
+Denmark,2013,35.5
+Dominican Republic,2013,41
+Ecuador,2013,40
+Egypt,2013,45.4
+Spain,2013,37.5
+Estonia,2013,38.7
+Ethiopia,2013,30
+Finland,2013,36.2
+France,2013,36.2
+Isle of Man,2013,35
+United Kingdom,2013,35.8
+Ghana,2013,41.1
+Greece,2013,41.2
+Guatemala,2013,40.8
+"Hong Kong, China",2013,44
+Honduras,2013,36.8
+Croatia,2013,39.2
+Hungary,2013,38.8
+Indonesia,2013,37.1
+Ireland,2013,35.5
+Iran,2013,45.3
+Iceland,2013,39.8
+Israel,2013,30.7
+Italy,2013,36.4
+Japan,2013,39.5
+Kazakhstan,2013,39
+Kyrgyz Republic,2013,34.6
+Cambodia,2013,42.4
+South Korea,2013,42.7
+Sri Lanka,2013,41
+Lithuania,2013,38.9
+Luxembourg,2013,38
+Latvia,2013,39.1
+"Macao, China",2013,47
+Moldova,2013,37.5
+Mexico,2013,41.5
+North Macedonia,2013,41.9
+Mali,2013,42.5
+Malta,2013,38
+Montenegro,2013,43.4
+Mongolia,2013,48
+Mauritius,2013,36.5
+Malawi,2013,30.3
+Malaysia,2013,45.9
+Namibia,2013,36.9
+Nigeria,2013,43.2
+Netherlands,2013,31.9
+Norway,2013,34.4
+Nauru,2013,39.1
+New Zealand,2013,33
+Pakistan,2013,45.8
+Panama,2013,39.5
+Peru,2013,38.2
+Philippines,2013,41.2
+Poland,2013,40.2
+Portugal,2013,38.5
+Paraguay,2013,43.2
+Palestine,2013,41.6
+Qatar,2013,50
+Romania,2013,39.2
+Russia,2013,38.1
+Saudi Arabia,2013,49.1
+Singapore,2013,45.3
+Solomon Islands,2013,34.6
+El Salvador,2013,41.7
+Serbia,2013,40.7
+Slovak Republic,2013,39.6
+Slovenia,2013,39.1
+Sweden,2013,36
+Thailand,2013,44.1
+Timor-Leste,2013,38.2
+Turkey,2013,46.9
+Uganda,2013,34
+Ukraine,2013,38
+United States,2013,36.6
+Vietnam,2013,40.9
+South Africa,2013,42.5
+Afghanistan,2014,37
+Albania,2014,37.4
+Argentina,2014,37
+Armenia,2014,38.7
+Australia,2014,33.7
+Austria,2014,35.9
+Azerbaijan,2014,36.8
+Burundi,2014,40.3
+Belgium,2014,37.3
+Burkina Faso,2014,45
+Bulgaria,2014,40.1
+Bosnia and Herzegovina,2014,41.1
+Belarus,2014,36.5
+Brazil,2014,38.4
+Brunei,2014,45.6
+Canada,2014,32.3
+Switzerland,2014,36.4
+Chile,2014,38.3
+China,2014,46.6
+Colombia,2014,42.5
+Comoros,2014,42.5
+Costa Rica,2014,40.8
+Cayman Islands,2014,41.2
+Cyprus,2014,38
+Czech Republic,2014,39.4
+Germany,2014,35.6
+Denmark,2014,35.2
+Dominican Republic,2014,41.3
+Algeria,2014,42.2
+Ecuador,2014,39.5
+Spain,2014,37.4
+Estonia,2014,38.3
+Finland,2014,36
+France,2014,36.1
+"Micronesia, Fed. Sts.",2014,30.4
+United Kingdom,2014,36
+Greece,2014,40.9
+Guatemala,2014,43.3
+"Hong Kong, China",2014,44
+Honduras,2014,38
+Croatia,2014,39.3
+Hungary,2014,38.5
+Indonesia,2014,38.5
+Ireland,2014,35.6
+Iran,2014,44.3
+Iraq,2014,41.6
+Iceland,2014,39.8
+Israel,2014,31.4
+Italy,2014,36.3
+Japan,2014,39.1
+Kyrgyz Republic,2014,34.9
+Cambodia,2014,43.3
+South Korea,2014,43.4
+Kosovo,2014,41.7
+Sri Lanka,2014,41.5
+Lithuania,2014,38.8
+Luxembourg,2014,38.3
+Latvia,2014,39.3
+"Macao, China",2014,47
+Moldova,2014,37.2
+Maldives,2014,43
+Mexico,2014,41.6
+North Macedonia,2014,41.7
+Mali,2014,43.1
+Malta,2014,37.5
+Montenegro,2014,42.2
+Mongolia,2014,49
+Mauritius,2014,35.8
+Malaysia,2014,46.2
+Namibia,2014,44.6
+Netherlands,2014,32.3
+Norway,2014,34.7
+New Zealand,2014,33
+Pakistan,2014,47.1
+Panama,2014,39
+Peru,2014,38
+Philippines,2014,40.3
+Palau,2014,41.5
+Poland,2014,40.4
+Portugal,2014,38.7
+Paraguay,2014,42.7
+Qatar,2014,50
+Romania,2014,39.2
+Russia,2014,38.2
+Rwanda,2014,24.8
+Saudi Arabia,2014,46.8
+Singapore,2014,44.3
+Sierra Leone,2014,41.9
+El Salvador,2014,42.1
+Serbia,2014,36.6
+Slovak Republic,2014,39
+Slovenia,2014,39.1
+Sweden,2014,35.9
+Seychelles,2014,40.8
+Thailand,2014,43.6
+Turkey,2014,47
+Tanzania,2014,37.3
+Ukraine,2014,39
+United States,2014,36.6
+Vietnam,2014,40.4
+Samoa,2014,39.3
+Yemen,2014,40
+South Africa,2014,42.4
+Zimbabwe,2014,25.8
+Albania,2015,37.9
+Armenia,2015,35.9
+Australia,2015,33.6
+Austria,2015,35.6
+Azerbaijan,2015,36.8
+Belgium,2015,37.3
+Bulgaria,2015,40.2
+Bosnia and Herzegovina,2015,40.7
+Belarus,2015,36.5
+Belize,2015,46
+Brazil,2015,38
+Canada,2015,32.6
+Switzerland,2015,36.5
+Chile,2015,38.2
+Colombia,2015,42.4
+Costa Rica,2015,41.3
+Cayman Islands,2015,42
+Cyprus,2015,37.9
+Czech Republic,2015,39.2
+Germany,2015,35.5
+Denmark,2015,35.1
+Dominican Republic,2015,40.1
+Ecuador,2015,39
+Egypt,2015,46.1
+Spain,2015,37.3
+Estonia,2015,38.1
+Finland,2015,36.1
+France,2015,36.1
+United Kingdom,2015,35.9
+Ghana,2015,33
+Greece,2015,40.9
+Guatemala,2015,42
+"Hong Kong, China",2015,44
+Honduras,2015,37.9
+Croatia,2015,38.4
+Hungary,2015,38.5
+Indonesia,2015,39.3
+Ireland,2015,35.5
+Iran,2015,45.1
+Iceland,2015,40
+Israel,2015,31.5
+Italy,2015,36.4
+Japan,2015,39
+Kazakhstan,2015,38
+Kyrgyz Republic,2015,35.7
+Cambodia,2015,43.3
+South Korea,2015,43.3
+Sri Lanka,2015,41.3
+Lithuania,2015,38.8
+Luxembourg,2015,38.2
+Latvia,2015,39.2
+"Macao, China",2015,46
+Moldova,2015,36.6
+Madagascar,2015,33.3
+Mexico,2015,41.7
+North Macedonia,2015,41.5
+Mali,2015,42.6
+Malta,2015,37.7
+Myanmar,2015,50.2
+Montenegro,2015,42.9
+Mongolia,2015,48
+Mozambique,2015,28.6
+Mauritius,2015,35.9
+Malaysia,2015,45.4
+Netherlands,2015,32.1
+Norway,2015,34.3
+Nepal,2015,53.6
+New Zealand,2015,33
+Pakistan,2015,46.8
+Panama,2015,39.1
+Peru,2015,38.6
+Philippines,2015,40.5
+Poland,2015,40.4
+Portugal,2015,38.8
+Paraguay,2015,41.9
+Palestine,2015,37.2
+Qatar,2015,50
+Romania,2015,38.7
+Russia,2015,38
+Saudi Arabia,2015,44.1
+Senegal,2015,36.3
+Singapore,2015,44.2
+El Salvador,2015,42.3
+Serbia,2015,39.1
+Slovak Republic,2015,38.9
+Slovenia,2015,39.1
+Sweden,2015,35.8
+Seychelles,2015,41.2
+Thailand,2015,43
+Turkey,2015,46.7
+Ukraine,2015,39
+United States,2015,36.6
+Vietnam,2015,40.5
+South Africa,2015,42.6
+Albania,2016,39.6
+Argentina,2016,42.9
+Armenia,2016,35.7
+Australia,2016,33.3
+Austria,2016,35.6
+Azerbaijan,2016,36.9
+Belgium,2016,37.4
+Bangladesh,2016,49
+Bulgaria,2016,40.3
+Bosnia and Herzegovina,2016,41.9
+Belarus,2016,34.7
+Belize,2016,48.4
+Brazil,2016,38.2
+Canada,2016,32.6
+Switzerland,2016,36.6
+Chile,2016,38
+China,2016,46.1
+Cote d'Ivoire,2016,44.4
+Cook Is,2016,35
+Colombia,2016,42.3
+Costa Rica,2016,42.4
+Cyprus,2016,38.2
+Czech Republic,2016,39.5
+Germany,2016,35.5
+Denmark,2016,34.8
+Dominican Republic,2016,40.1
+Ecuador,2016,37.5
+Egypt,2016,43.2
+Spain,2016,37.3
+Estonia,2016,38.6
+Finland,2016,36.2
+Falkland Is (Malvinas),2016,42.2
+France,2016,36.4
+United Kingdom,2016,36
+Greece,2016,41.2
+Guatemala,2016,43.3
+"Hong Kong, China",2016,43
+Honduras,2016,39.3
+Croatia,2016,38.5
+Hungary,2016,39.1
+Indonesia,2016,39.2
+Ireland,2016,35.8
+Iran,2016,43.4
+Iceland,2016,40.1
+Israel,2016,31.6
+Italy,2016,36.6
+Jersey,2016,40
+Japan,2016,38.8
+Kyrgyz Republic,2016,36.5
+Cambodia,2016,43.3
+South Korea,2016,42.6
+Kosovo,2016,42.6
+Sri Lanka,2016,42.3
+Lithuania,2016,38.9
+Luxembourg,2016,37.9
+Latvia,2016,39.3
+"Macao, China",2016,46
+Moldova,2016,36.2
+Maldives,2016,48.5
+Mexico,2016,41.9
+North Macedonia,2016,41.5
+Mali,2016,43.1
+Malta,2016,38.3
+Montenegro,2016,42.8
+Mongolia,2016,48
+Mauritius,2016,36.3
+Malaysia,2016,45.5
+Namibia,2016,45.4
+Netherlands,2016,32.4
+Norway,2016,34.5
+New Zealand,2016,33
+Pakistan,2016,47.4
+Panama,2016,38.2
+Peru,2016,38
+Philippines,2016,41.8
+Poland,2016,40.5
+Portugal,2016,38.4
+Paraguay,2016,41.4
+Palestine,2016,38
+Qatar,2016,50
+Romania,2016,39
+Russia,2016,38
+Senegal,2016,38.6
+El Salvador,2016,42.2
+Serbia,2016,39
+Slovak Republic,2016,38.9
+Slovenia,2016,39
+Sweden,2016,36.2
+Eswatini,2016,43.6
+Seychelles,2016,41.6
+Thailand,2016,42.7
+Timor-Leste,2016,30.4
+Turkey,2016,46.4
+Tuvalu,2016,31.3
+Ukraine,2016,39
+United States,2016,36.7
+Venezuela,2016,37.1
+Vietnam,2016,41
+South Africa,2016,42.6
+Afghanistan,2017,38
+Albania,2017,40
+Argentina,2017,36.1
+Armenia,2017,35.8
+Australia,2017,33.3
+Austria,2017,35.4
+Azerbaijan,2017,36.9
+Belgium,2017,36.7
+Bangladesh,2017,46.9
+Bulgaria,2017,40
+Bosnia and Herzegovina,2017,40.9
+Belarus,2017,35.1
+Belize,2017,43
+Brazil,2017,37.7
+Brunei,2017,46.3
+Canada,2017,32.4
+Switzerland,2017,36.5
+Chile,2017,37.6
+Cote d'Ivoire,2017,44.3
+Colombia,2017,41.9
+Costa Rica,2017,41.9
+Cyprus,2017,38.3
+Czech Republic,2017,39.2
+Germany,2017,35.3
+Denmark,2017,34.8
+Dominican Republic,2017,39.8
+Algeria,2017,43.7
+Ecuador,2017,37.2
+Egypt,2017,44.1
+Spain,2017,37.1
+Estonia,2017,38.7
+Finland,2017,36.1
+France,2017,36.3
+United Kingdom,2017,35.9
+Georgia,2017,35.4
+Ghana,2017,39.8
+Greece,2017,41
+Honduras,2017,38
+Croatia,2017,38.9
+Hungary,2017,38.8
+Indonesia,2017,39.1
+Ireland,2017,36.2
+Iran,2017,44.6
+Iceland,2017,39.8
+Israel,2017,31.8
+Italy,2017,36.7
+Jamaica,2017,43
+Jordan,2017,47.3
+Japan,2017,38.9
+Kazakhstan,2017,38
+Kyrgyz Republic,2017,37.2
+Cambodia,2017,43.8
+South Korea,2017,42.5
+Kosovo,2017,42.7
+Lao,2017,41.2
+St. Lucia,2017,40.3
+Sri Lanka,2017,42.5
+Lithuania,2017,38.3
+Luxembourg,2017,37.6
+Latvia,2017,38.9
+Moldova,2017,37
+Mexico,2017,42
+North Macedonia,2017,42.2
+Mali,2017,42.1
+Malta,2017,37.8
+Myanmar,2017,48.3
+Montenegro,2017,42.4
+Mongolia,2017,48
+Mauritania,2017,38.8
+Mauritius,2017,36.9
+Malaysia,2017,45.5
+Niger,2017,39.3
+Netherlands,2017,32.4
+Norway,2017,34.4
+Nepal,2017,40.3
+New Zealand,2017,33
+Panama,2017,37.9
+Peru,2017,38.2
+Philippines,2017,41
+Poland,2017,40.1
+Portugal,2017,38.4
+Paraguay,2017,41.6
+Palestine,2017,39.1
+Qatar,2017,49
+Romania,2017,39
+Russia,2017,38.1
+Rwanda,2017,31.8
+Singapore,2017,44.7
+El Salvador,2017,42.1
+Serbia,2017,38.5
+Slovak Republic,2017,38.5
+Slovenia,2017,38.1
+Sweden,2017,35.9
+Seychelles,2017,40.6
+Thailand,2017,42.6
+Turkey,2017,45.9
+Uganda,2017,38.1
+Ukraine,2017,39
+United States,2017,36.6
+Venezuela,2017,37
+Vietnam,2017,39.7
+Samoa,2017,44.2
+South Africa,2017,42.3
+Zambia,2017,38.8
+Albania,2018,40.6
+Argentina,2018,35.8
+Armenia,2018,38
+Australia,2018,33.2
+Austria,2018,35.6
+Azerbaijan,2018,36.9
+Belgium,2018,36.6
+Bulgaria,2018,39.9
+Bosnia and Herzegovina,2018,41.2
+Belarus,2018,35.4
+Brazil,2018,37.4
+Brunei,2018,46.5
+Canada,2018,35.7
+Switzerland,2018,36.4
+Chile,2018,37.3
+Colombia,2018,42.1
+Costa Rica,2018,40.8
+Cyprus,2018,38.2
+Czech Republic,2018,39
+Germany,2018,35.2
+Denmark,2018,34.4
+Dominican Republic,2018,39.5
+Ecuador,2018,37.4
+Egypt,2018,45.5
+Spain,2018,37.4
+Estonia,2018,38.1
+Finland,2018,35.9
+France,2018,36.4
+United Kingdom,2018,35.8
+Georgia,2018,37.6
+Gambia,2018,49.8
+Greece,2018,40.9
+Honduras,2018,39.2
+Croatia,2018,38.6
+Hungary,2018,38.2
+Indonesia,2018,38.2
+India,2018,48.1
+Ireland,2018,36.6
+Iran,2018,43.2
+Iceland,2018,39.5
+Israel,2018,36
+Italy,2018,36.9
+Jordan,2018,46.6
+Japan,2018,38.1
+Kyrgyz Republic,2018,38
+South Korea,2018,41.2
+Kosovo,2018,43.4
+St. Lucia,2018,40.6
+Sri Lanka,2018,41.7
+Lithuania,2018,38.5
+Luxembourg,2018,37.8
+Latvia,2018,38.9
+Moldova,2018,37.5
+Mexico,2018,42
+North Macedonia,2018,41.9
+Mali,2018,42.3
+Malta,2018,38
+Myanmar,2018,45.6
+Montenegro,2018,43.3
+Mongolia,2018,50
+Mauritius,2018,35.1
+Malaysia,2018,45
+Namibia,2018,43.1
+Netherlands,2018,32.2
+Curaçao,2018,36.6
+Norway,2018,34.2
+New Zealand,2018,33
+Pakistan,2018,46.8
+Panama,2018,36.8
+Peru,2018,38.4
+Philippines,2018,41.8
+Poland,2018,39.6
+Portugal,2018,38.5
+Paraguay,2018,39.6
+Palestine,2018,39.2
+Romania,2018,38.9
+Russia,2018,37.9
+Rwanda,2018,33
+Singapore,2018,44.2
+El Salvador,2018,42.1
+Serbia,2018,39
+Slovak Republic,2018,38.8
+Slovenia,2018,38.5
+Sweden,2018,35.9
+Seychelles,2018,41.3
+Thailand,2018,42.5
+Tonga,2018,34.4
+Turkey,2018,45.2
+Uruguay,2018,42.1
+United States,2018,36.9
+Vietnam,2018,41.2
+South Africa,2018,42.1
+Zambia,2018,40.2
+Albania,2019,41.2
+Argentina,2019,35.1
+Armenia,2019,39.9
+Australia,2019,33
+Austria,2019,35.7
+Azerbaijan,2019,36.9
+Belgium,2019,36.5
+Bulgaria,2019,39.7
+Bosnia and Herzegovina,2019,41
+Belarus,2019,35.5
+Belize,2019,40.3
+Bolivia,2019,40.4
+Brazil,2019,37.5
+Brunei,2019,46.1
+Botswana,2019,45.8
+Canada,2019,32.1
+Switzerland,2019,36.2
+Chile,2019,36.9
+Cook Is,2019,37
+Colombia,2019,41.9
+Costa Rica,2019,39.6
+Cyprus,2019,37.9
+Czech Republic,2019,39
+Germany,2019,35.1
+Denmark,2019,34.1
+Dominican Republic,2019,38.8
+Ecuador,2019,36.6
+Egypt,2019,46.2
+Spain,2019,37.1
+Estonia,2019,38
+Finland,2019,35.8
+France,2019,36.3
+United Kingdom,2019,35.9
+Georgia,2019,37.7
+Greece,2019,40.7
+Honduras,2019,40.2
+Croatia,2019,38.5
+Hungary,2019,38.4
+Indonesia,2019,38.1
+India,2019,47.9
+Ireland,2019,36.5
+Iran,2019,44.6
+Iceland,2019,39.5
+Israel,2019,35.8
+Italy,2019,36.8
+Jordan,2019,47.5
+Japan,2019,37.8
+Kenya,2019,45.2
+Cambodia,2019,45.4
+Kiribati,2019,21.9
+South Korea,2019,40.4
+Kosovo,2019,42
+Lebanon,2019,46.5
+St. Lucia,2019,40.3
+Lesotho,2019,49.8
+Lithuania,2019,38.6
+Luxembourg,2019,38.1
+Latvia,2019,38.6
+Moldova,2019,37.9
+Maldives,2019,46.2
+Mexico,2019,41.8
+Marshall Islands,2019,37.8
+North Macedonia,2019,41.1
+Malta,2019,39.1
+Myanmar,2019,45.7
+Montenegro,2019,43.4
+Mongolia,2019,49.7
+Mauritius,2019,36.8
+Malaysia,2019,45.1
+Netherlands,2019,32.3
+Norway,2019,34
+New Zealand,2019,33
+Panama,2019,36.6
+Peru,2019,38.3
+Philippines,2019,41.7
+Poland,2019,39.5
+Portugal,2019,38.3
+Paraguay,2019,39.4
+Palestine,2019,39.1
+Qatar,2019,48
+Romania,2019,39.2
+Russia,2019,37.8
+Rwanda,2019,32.1
+Senegal,2019,44.1
+Singapore,2019,44.7
+El Salvador,2019,42.8
+Serbia,2019,39
+Slovak Republic,2019,38.9
+Slovenia,2019,38.6
+Sweden,2019,35.7
+Seychelles,2019,41.6
+Thailand,2019,42.3
+Turkey,2019,44.8
+Ukraine,2019,39
+United States,2019,36.9
+Vietnam,2019,41.2
+Vanuatu,2019,30.6
+South Africa,2019,42.4
+Zambia,2019,40.6
+Zimbabwe,2019,36.6
+Afghanistan,2020,39.9
+Argentina,2020,30.9
+Australia,2020,32.3
+Austria,2020,34.2
+Belgium,2020,35.7
+Bulgaria,2020,39.4
+Bosnia and Herzegovina,2020,39.4
+Belarus,2020,34.9
+Belize,2020,39
+Brazil,2020,35.1
+Botswana,2020,45.8
+Canada,2020,30.9
+Switzerland,2020,35.4
+Chile,2020,34.6
+Colombia,2020,38.7
+Costa Rica,2020,36.9
+Cyprus,2020,37.7
+Czech Republic,2020,37.9
+Germany,2020,34.2
+Denmark,2020,34.2
+Dominican Republic,2020,33.8
+Ecuador,2020,34.5
+Spain,2020,36.6
+Estonia,2020,37.2
+Finland,2020,35.8
+France,2020,35.9
+Georgia,2020,40.5
+Greece,2020,40.3
+Honduras,2020,40.2
+Croatia,2020,38.2
+Hungary,2020,38
+Indonesia,2020,37.2
+India,2020,46.4
+Ireland,2020,36.4
+Iran,2020,42.4
+Iceland,2020,37.9
+Israel,2020,33.5
+Italy,2020,35.8
+Japan,2020,36.6
+Kazakhstan,2020,38
+South Korea,2020,38.7
+Kosovo,2020,37.4
+Lithuania,2020,38.2
+Luxembourg,2020,37.2
+Latvia,2020,38.1
+Moldova,2020,35.7
+Mexico,2020,38.8
+North Macedonia,2020,36.6
+Malta,2020,38.1
+Montenegro,2020,42.7
+Mongolia,2020,46.8
+Montserrat,2020,37.9
+Malaysia,2020,43.2
+Netherlands,2020,31.7
+Norway,2020,33.8
+New Zealand,2020,33
+Panama,2020,31.2
+Peru,2020,32.9
+Philippines,2020,35.6
+Poland,2020,39.1
+Portugal,2020,37.4
+Paraguay,2020,35.7
+Palestine,2020,34.9
+Qatar,2020,48
+Romania,2020,38.7
+Russia,2020,36
+Saudi Arabia,2020,45.1
+Singapore,2020,42.6
+El Salvador,2020,42.8
+Serbia,2020,38
+Slovak Republic,2020,38.3
+Slovenia,2020,39
+Sweden,2020,34.9
+Seychelles,2020,40.7
+Thailand,2020,40.3
+Turkey,2020,43
+Ukraine,2020,39
+United States,2020,35.9
+Vietnam,2020,41.3
+South Africa,2020,39.8
